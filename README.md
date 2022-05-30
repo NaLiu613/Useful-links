@@ -5,4 +5,5 @@
 
 
 ## Datasets that might be useful
-Bay are used in GLRTA: https://citius.usc.es/investigacion/datasets/hyperspectral-change-detection-dataset
+Bay Area used in GLRTA: (descriptions)https://citius.usc.es/investigacion/datasets/hyperspectral-change-detection-dataset
+                       (downloading)https://gitlab.citius.usc.es/hiperespectral/ChangeDetectionDataset
