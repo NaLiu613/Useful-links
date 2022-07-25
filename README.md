@@ -10,3 +10,6 @@ Bay Area used in GLRTA: (descriptions)https://citius.usc.es/investigacion/datase
                        
 ## 武汉大学智能遥感解译LuoJiaNET框架与LuoJiaSET样本库正式上架华为昇思社区
 https://mp.weixin.qq.com/s/IFL3uh8Kl-8529yZljvrnw
+
+##TUM的去云
+https://patricktum.github.io/cloud_removal/
